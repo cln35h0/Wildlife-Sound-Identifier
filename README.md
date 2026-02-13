@@ -1,3 +1,1 @@
-# Wildlife-Sound-Identifier
-
-[Link](https://wildlife-sound-identifier.streamlit.app/)
+# [Wildlife-Sound-Identifier](https://wildlife-sound-identifier.streamlit.app/)
